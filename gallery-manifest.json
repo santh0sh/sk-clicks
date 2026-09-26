@@ -490,5 +490,35 @@
     "cat": "portraits",
     "alt": "gallery new e3499488",
     "class": ""
+  },
+  {
+    "src": "assets/nature/rose-pink-side.jpg",
+    "cat": "nature",
+    "alt": "Pink rose viewed from the side",
+    "class": ""
+  },
+  {
+    "src": "assets/nature/rose-pink-front.jpg",
+    "cat": "nature",
+    "alt": "Pink rose viewed from the front",
+    "class": ""
+  },
+  {
+    "src": "assets/nature/windmill-cumulus.jpg",
+    "cat": "nature",
+    "alt": "Wind turbine beneath cumulus clouds",
+    "class": ""
+  },
+  {
+    "src": "assets/nature/windmill-storm.jpg",
+    "cat": "nature",
+    "alt": "Wind turbine beneath storm clouds",
+    "class": ""
+  },
+  {
+    "src": "assets/nature/windmills-field.jpg",
+    "cat": "nature",
+    "alt": "Wind turbines over a field and distant hills",
+    "class": ""
   }
 ]
