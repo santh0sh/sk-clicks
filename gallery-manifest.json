@@ -180,12 +180,6 @@
     "class": ""
   },
   {
-    "src": "assets/portraits/gallery-image-9364ae27.jpg",
-    "cat": "portraits",
-    "alt": "Portrait in a garden",
-    "class": ""
-  },
-  {
     "src": "assets/portraits/gallery-image-a5a54834.jpg",
     "cat": "portraits",
     "alt": "Farmer standing by a green field",
@@ -447,6 +441,24 @@
     "src": "assets/nature/gallery-new-ca8da6b3.jpg",
     "cat": "nature",
     "alt": "gallery new ca8da6b3",
+    "class": ""
+  },
+  {
+    "src": "assets/paws-wings/dog-fluffy-tongue.jpg",
+    "cat": "paws-wings",
+    "alt": "dog fluffy tongue",
+    "class": ""
+  },
+  {
+    "src": "assets/paws-wings/sparrow-blue-wall.jpg",
+    "cat": "paws-wings",
+    "alt": "sparrow blue wall",
+    "class": ""
+  },
+  {
+    "src": "assets/paws-wings/sparrow-on-wire.jpg",
+    "cat": "paws-wings",
+    "alt": "sparrow on wire",
     "class": ""
   },
   {
