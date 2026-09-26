@@ -450,15 +450,39 @@
     "class": ""
   },
   {
+    "src": "assets/nature/lake-island.jpg",
+    "cat": "nature",
+    "alt": "lake island",
+    "class": ""
+  },
+  {
     "src": "assets/nature/paddy-workers.jpg",
     "cat": "nature",
     "alt": "paddy workers",
     "class": ""
   },
   {
+    "src": "assets/nature/rain-tree-road.jpg",
+    "cat": "nature",
+    "alt": "rain tree road",
+    "class": ""
+  },
+  {
+    "src": "assets/nature/red-moon.jpg",
+    "cat": "nature",
+    "alt": "red moon",
+    "class": ""
+  },
+  {
     "src": "assets/nature/rose-pink-front.jpg",
     "cat": "nature",
     "alt": "rose pink front",
+    "class": ""
+  },
+  {
+    "src": "assets/nature/storm-beach.jpg",
+    "cat": "nature",
+    "alt": "storm beach",
     "class": ""
   },
   {
@@ -555,30 +579,6 @@
     "src": "assets/portraits/gallery-new-e3499488.jpg",
     "cat": "portraits",
     "alt": "gallery new e3499488",
-    "class": ""
-  },
-  {
-    "src": "assets/nature/lake-island.jpg",
-    "cat": "nature",
-    "alt": "Birds on small islands in an urban lake",
-    "class": ""
-  },
-  {
-    "src": "assets/nature/storm-beach.jpg",
-    "cat": "nature",
-    "alt": "Storm clouds over a sandy beach",
-    "class": ""
-  },
-  {
-    "src": "assets/nature/rain-tree-road.jpg",
-    "cat": "nature",
-    "alt": "Road beneath broad rain-tree canopies",
-    "class": ""
-  },
-  {
-    "src": "assets/nature/red-moon.jpg",
-    "cat": "nature",
-    "alt": "Red moon during a lunar eclipse",
     "class": ""
   }
 ]
