@@ -444,9 +444,21 @@
     "class": ""
   },
   {
+    "src": "assets/nature/farmland-sunset.jpg",
+    "cat": "nature",
+    "alt": "farmland sunset",
+    "class": ""
+  },
+  {
     "src": "assets/nature/gallery-new-ca8da6b3.jpg",
     "cat": "nature",
     "alt": "gallery new ca8da6b3",
+    "class": ""
+  },
+  {
+    "src": "assets/nature/paddy-workers.jpg",
+    "cat": "nature",
+    "alt": "paddy workers",
     "class": ""
   },
   {
@@ -459,6 +471,12 @@
     "src": "assets/nature/rose-pink-side.jpg",
     "cat": "nature",
     "alt": "rose pink side",
+    "class": ""
+  },
+  {
+    "src": "assets/nature/wetland-stilts.jpg",
+    "cat": "nature",
+    "alt": "wetland stilts",
     "class": ""
   },
   {
@@ -480,9 +498,51 @@
     "class": ""
   },
   {
+    "src": "assets/paws-wings/cat-under-car.jpg",
+    "cat": "paws-wings",
+    "alt": "cat under car",
+    "class": ""
+  },
+  {
     "src": "assets/paws-wings/dog-fluffy-tongue.jpg",
     "cat": "paws-wings",
     "alt": "dog fluffy tongue",
+    "class": ""
+  },
+  {
+    "src": "assets/paws-wings/duck-reeds.jpg",
+    "cat": "paws-wings",
+    "alt": "duck reeds",
+    "class": ""
+  },
+  {
+    "src": "assets/paws-wings/ducks-on-water.jpg",
+    "cat": "paws-wings",
+    "alt": "ducks on water",
+    "class": ""
+  },
+  {
+    "src": "assets/paws-wings/egret-water.jpg",
+    "cat": "paws-wings",
+    "alt": "egret water",
+    "class": ""
+  },
+  {
+    "src": "assets/paws-wings/fly-on-leaf.jpg",
+    "cat": "paws-wings",
+    "alt": "fly on leaf",
+    "class": ""
+  },
+  {
+    "src": "assets/paws-wings/jumping-spider.jpg",
+    "cat": "paws-wings",
+    "alt": "jumping spider",
+    "class": ""
+  },
+  {
+    "src": "assets/paws-wings/macaw-shop.jpg",
+    "cat": "paws-wings",
+    "alt": "macaw shop",
     "class": ""
   },
   {
@@ -519,66 +579,6 @@
     "src": "assets/portraits/gallery-new-e3499488.jpg",
     "cat": "portraits",
     "alt": "gallery new e3499488",
-    "class": ""
-  },
-  {
-    "src": "assets/nature/paddy-workers.jpg",
-    "cat": "nature",
-    "alt": "Workers transplanting rice seedlings in a paddy",
-    "class": ""
-  },
-  {
-    "src": "assets/nature/farmland-sunset.jpg",
-    "cat": "nature",
-    "alt": "Farmland under a colorful sunset sky",
-    "class": ""
-  },
-  {
-    "src": "assets/nature/wetland-stilts.jpg",
-    "cat": "nature",
-    "alt": "Three black-winged stilts in blue wetland water",
-    "class": ""
-  },
-  {
-    "src": "assets/paws-wings/jumping-spider.jpg",
-    "cat": "paws-wings",
-    "alt": "Jumping spider on a red textured surface",
-    "class": ""
-  },
-  {
-    "src": "assets/paws-wings/fly-on-leaf.jpg",
-    "cat": "paws-wings",
-    "alt": "Blue-green fly on a broad leaf",
-    "class": ""
-  },
-  {
-    "src": "assets/paws-wings/egret-water.jpg",
-    "cat": "paws-wings",
-    "alt": "White egret reflected in still blue water",
-    "class": ""
-  },
-  {
-    "src": "assets/paws-wings/duck-reeds.jpg",
-    "cat": "paws-wings",
-    "alt": "Duck near the reeds at a water edge",
-    "class": ""
-  },
-  {
-    "src": "assets/paws-wings/ducks-on-water.jpg",
-    "cat": "paws-wings",
-    "alt": "Four ducks swimming on open water",
-    "class": ""
-  },
-  {
-    "src": "assets/paws-wings/macaw-shop.jpg",
-    "cat": "paws-wings",
-    "alt": "Red and yellow macaw perched in a shop",
-    "class": ""
-  },
-  {
-    "src": "assets/paws-wings/cat-under-car.jpg",
-    "cat": "paws-wings",
-    "alt": "Black-and-white cat standing under a car",
     "class": ""
   }
 ]
