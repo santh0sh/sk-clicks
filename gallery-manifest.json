@@ -520,5 +520,65 @@
     "cat": "portraits",
     "alt": "gallery new e3499488",
     "class": ""
+  },
+  {
+    "src": "assets/nature/paddy-workers.jpg",
+    "cat": "nature",
+    "alt": "Workers transplanting rice seedlings in a paddy",
+    "class": ""
+  },
+  {
+    "src": "assets/nature/farmland-sunset.jpg",
+    "cat": "nature",
+    "alt": "Farmland under a colorful sunset sky",
+    "class": ""
+  },
+  {
+    "src": "assets/nature/wetland-stilts.jpg",
+    "cat": "nature",
+    "alt": "Three black-winged stilts in blue wetland water",
+    "class": ""
+  },
+  {
+    "src": "assets/paws-wings/jumping-spider.jpg",
+    "cat": "paws-wings",
+    "alt": "Jumping spider on a red textured surface",
+    "class": ""
+  },
+  {
+    "src": "assets/paws-wings/fly-on-leaf.jpg",
+    "cat": "paws-wings",
+    "alt": "Blue-green fly on a broad leaf",
+    "class": ""
+  },
+  {
+    "src": "assets/paws-wings/egret-water.jpg",
+    "cat": "paws-wings",
+    "alt": "White egret reflected in still blue water",
+    "class": ""
+  },
+  {
+    "src": "assets/paws-wings/duck-reeds.jpg",
+    "cat": "paws-wings",
+    "alt": "Duck near the reeds at a water edge",
+    "class": ""
+  },
+  {
+    "src": "assets/paws-wings/ducks-on-water.jpg",
+    "cat": "paws-wings",
+    "alt": "Four ducks swimming on open water",
+    "class": ""
+  },
+  {
+    "src": "assets/paws-wings/macaw-shop.jpg",
+    "cat": "paws-wings",
+    "alt": "Red and yellow macaw perched in a shop",
+    "class": ""
+  },
+  {
+    "src": "assets/paws-wings/cat-under-car.jpg",
+    "cat": "paws-wings",
+    "alt": "Black-and-white cat standing under a car",
+    "class": ""
   }
 ]
