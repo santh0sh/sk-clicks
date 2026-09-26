@@ -96,12 +96,6 @@
     "class": ""
   },
   {
-    "src": "assets/paws-wings/nature-kingfisher.jpg",
-    "cat": "paws-wings",
-    "alt": "Kingfisher spreading its wings",
-    "class": ""
-  },
-  {
     "src": "assets/light/light-sunbeams.jpg",
     "cat": "light",
     "alt": "Sunbeams breaking through clouds",
@@ -111,18 +105,6 @@
     "src": "assets/light/light-street-sunrise.jpg",
     "cat": "light",
     "alt": "Golden morning light along a street",
-    "class": ""
-  },
-  {
-    "src": "assets/paws-wings/light-grazing-sunset.jpg",
-    "cat": "paws-wings",
-    "alt": "Evening light above a herd",
-    "class": ""
-  },
-  {
-    "src": "assets/paws-wings/places-elephant.jpg",
-    "cat": "paws-wings",
-    "alt": "Elephant walking through a temple street",
     "class": ""
   },
   {
@@ -279,12 +261,6 @@
     "src": "assets/nature/gallery-image-21b7aac5.jpg",
     "cat": "nature",
     "alt": "Frangipani in bloom",
-    "class": ""
-  },
-  {
-    "src": "assets/paws-wings/gallery-image-54c899ad.jpg",
-    "cat": "paws-wings",
-    "alt": "Small pink bird perched beside water",
     "class": ""
   },
   {
