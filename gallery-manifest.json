@@ -450,6 +450,36 @@
     "class": ""
   },
   {
+    "src": "assets/nature/rose-pink-front.jpg",
+    "cat": "nature",
+    "alt": "rose pink front",
+    "class": ""
+  },
+  {
+    "src": "assets/nature/rose-pink-side.jpg",
+    "cat": "nature",
+    "alt": "rose pink side",
+    "class": ""
+  },
+  {
+    "src": "assets/nature/windmill-cumulus.jpg",
+    "cat": "nature",
+    "alt": "windmill cumulus",
+    "class": ""
+  },
+  {
+    "src": "assets/nature/windmill-storm.jpg",
+    "cat": "nature",
+    "alt": "windmill storm",
+    "class": ""
+  },
+  {
+    "src": "assets/nature/windmills-field.jpg",
+    "cat": "nature",
+    "alt": "windmills field",
+    "class": ""
+  },
+  {
     "src": "assets/paws-wings/dog-fluffy-tongue.jpg",
     "cat": "paws-wings",
     "alt": "dog fluffy tongue",
@@ -489,36 +519,6 @@
     "src": "assets/portraits/gallery-new-e3499488.jpg",
     "cat": "portraits",
     "alt": "gallery new e3499488",
-    "class": ""
-  },
-  {
-    "src": "assets/nature/rose-pink-side.jpg",
-    "cat": "nature",
-    "alt": "Pink rose viewed from the side",
-    "class": ""
-  },
-  {
-    "src": "assets/nature/rose-pink-front.jpg",
-    "cat": "nature",
-    "alt": "Pink rose viewed from the front",
-    "class": ""
-  },
-  {
-    "src": "assets/nature/windmill-cumulus.jpg",
-    "cat": "nature",
-    "alt": "Wind turbine beneath cumulus clouds",
-    "class": ""
-  },
-  {
-    "src": "assets/nature/windmill-storm.jpg",
-    "cat": "nature",
-    "alt": "Wind turbine beneath storm clouds",
-    "class": ""
-  },
-  {
-    "src": "assets/nature/windmills-field.jpg",
-    "cat": "nature",
-    "alt": "Wind turbines over a field and distant hills",
     "class": ""
   }
 ]
