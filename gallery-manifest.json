@@ -412,5 +412,11 @@
     "cat": "portraits",
     "alt": "Groom wearing a flower garland",
     "class": ""
+  },
+  {
+    "src": "assets/places/auto-pickup-test.jpg",
+    "cat": "places",
+    "alt": "auto pickup test",
+    "class": ""
   }
 ]
