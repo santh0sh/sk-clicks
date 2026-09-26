@@ -258,12 +258,6 @@
     "class": ""
   },
   {
-    "src": "assets/nature/gallery-image-6f3273a3.jpg",
-    "cat": "nature",
-    "alt": "Ripples spreading across still water",
-    "class": ""
-  },
-  {
     "src": "assets/nature/gallery-image-b8db1f4b.jpg",
     "cat": "nature",
     "alt": "Wind moving through a green field",
@@ -468,27 +462,9 @@
     "class": ""
   },
   {
-    "src": "assets/nature/rose-pink-side.jpg",
-    "cat": "nature",
-    "alt": "rose pink side",
-    "class": ""
-  },
-  {
     "src": "assets/nature/wetland-stilts.jpg",
     "cat": "nature",
     "alt": "wetland stilts",
-    "class": ""
-  },
-  {
-    "src": "assets/nature/windmill-cumulus.jpg",
-    "cat": "nature",
-    "alt": "windmill cumulus",
-    "class": ""
-  },
-  {
-    "src": "assets/nature/windmill-storm.jpg",
-    "cat": "nature",
-    "alt": "windmill storm",
     "class": ""
   },
   {
@@ -579,6 +555,30 @@
     "src": "assets/portraits/gallery-new-e3499488.jpg",
     "cat": "portraits",
     "alt": "gallery new e3499488",
+    "class": ""
+  },
+  {
+    "src": "assets/nature/lake-island.jpg",
+    "cat": "nature",
+    "alt": "Birds on small islands in an urban lake",
+    "class": ""
+  },
+  {
+    "src": "assets/nature/storm-beach.jpg",
+    "cat": "nature",
+    "alt": "Storm clouds over a sandy beach",
+    "class": ""
+  },
+  {
+    "src": "assets/nature/rain-tree-road.jpg",
+    "cat": "nature",
+    "alt": "Road beneath broad rain-tree canopies",
+    "class": ""
+  },
+  {
+    "src": "assets/nature/red-moon.jpg",
+    "cat": "nature",
+    "alt": "Red moon during a lunar eclipse",
     "class": ""
   }
 ]
