@@ -1,7 +1,7 @@
 [
   {
-    "src": "assets/nature/work-dragonfly.jpg",
-    "cat": "nature",
+    "src": "assets/paws-wings/work-dragonfly.jpg",
+    "cat": "paws-wings",
     "alt": "dragonfly",
     "class": "span2"
   },
@@ -30,8 +30,8 @@
     "class": "wide"
   },
   {
-    "src": "assets/nature/work-bird.jpg",
-    "cat": "nature",
+    "src": "assets/paws-wings/work-bird.jpg",
+    "cat": "paws-wings",
     "alt": "bird silhouette",
     "class": ""
   },
@@ -78,26 +78,26 @@
     "class": "span2"
   },
   {
-    "src": "assets/nature/nature-butterfly.jpg",
-    "cat": "nature",
+    "src": "assets/paws-wings/nature-butterfly.jpg",
+    "cat": "paws-wings",
     "alt": "Butterfly resting on a leaf",
     "class": ""
   },
   {
-    "src": "assets/nature/nature-egret.jpg",
-    "cat": "nature",
+    "src": "assets/paws-wings/nature-egret.jpg",
+    "cat": "paws-wings",
     "alt": "White peacock displaying its feathers",
     "class": ""
   },
   {
-    "src": "assets/nature/nature-calf.jpg",
-    "cat": "nature",
+    "src": "assets/paws-wings/nature-calf.jpg",
+    "cat": "paws-wings",
     "alt": "Cow and calf on a shaded lane",
     "class": ""
   },
   {
-    "src": "assets/nature/nature-kingfisher.jpg",
-    "cat": "nature",
+    "src": "assets/paws-wings/nature-kingfisher.jpg",
+    "cat": "paws-wings",
     "alt": "Kingfisher spreading its wings",
     "class": ""
   },
@@ -114,14 +114,14 @@
     "class": ""
   },
   {
-    "src": "assets/light/light-grazing-sunset.jpg",
-    "cat": "light",
+    "src": "assets/paws-wings/light-grazing-sunset.jpg",
+    "cat": "paws-wings",
     "alt": "Evening light above a herd",
     "class": ""
   },
   {
-    "src": "assets/places/places-elephant.jpg",
-    "cat": "places",
+    "src": "assets/paws-wings/places-elephant.jpg",
+    "cat": "paws-wings",
     "alt": "Elephant walking through a temple street",
     "class": ""
   },
@@ -282,8 +282,8 @@
     "class": ""
   },
   {
-    "src": "assets/nature/gallery-image-54c899ad.jpg",
-    "cat": "nature",
+    "src": "assets/paws-wings/gallery-image-54c899ad.jpg",
+    "cat": "paws-wings",
     "alt": "Small pink bird perched beside water",
     "class": ""
   },
