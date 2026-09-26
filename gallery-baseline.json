@@ -413,6 +413,12 @@
       "cat": "portraits",
       "alt": "Groom wearing a flower garland",
       "class": ""
+    },
+    {
+      "src": "assets/events/gallery-image-b925dd4c.jpg",
+      "cat": "events",
+      "alt": "Wedding group photographed through a phone",
+      "class": ""
     }
   ],
   "excluded": [
@@ -425,7 +431,6 @@
     "assets/events/gallery-image-37969596.jpg",
     "assets/events/gallery-image-7f828687.jpg",
     "assets/events/gallery-image-9c7f5f6c.jpg",
-    "assets/events/gallery-image-b925dd4c.jpg",
     "assets/events/gallery-new-31dc4743.jpg",
     "assets/events/gallery-new-e3cecd1b.jpg",
     "assets/events/light-flame.jpg",

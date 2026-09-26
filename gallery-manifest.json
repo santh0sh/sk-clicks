@@ -414,9 +414,57 @@
     "class": ""
   },
   {
+    "src": "assets/events/gallery-image-b925dd4c.jpg",
+    "cat": "events",
+    "alt": "Wedding group photographed through a phone",
+    "class": ""
+  },
+  {
+    "src": "assets/events/gallery-new-b057fbd2.jpg",
+    "cat": "events",
+    "alt": "gallery new b057fbd2",
+    "class": ""
+  },
+  {
+    "src": "assets/events/gallery-new-f5c441dd.jpg",
+    "cat": "events",
+    "alt": "gallery new f5c441dd",
+    "class": ""
+  },
+  {
+    "src": "assets/light/gallery-new-cb6ae0be.jpg",
+    "cat": "light",
+    "alt": "gallery new cb6ae0be",
+    "class": ""
+  },
+  {
+    "src": "assets/nature/gallery-new-ca8da6b3.jpg",
+    "cat": "nature",
+    "alt": "gallery new ca8da6b3",
+    "class": ""
+  },
+  {
+    "src": "assets/places/gallery-new-2c45eb46.jpg",
+    "cat": "places",
+    "alt": "gallery new 2c45eb46",
+    "class": ""
+  },
+  {
     "src": "assets/portraits/fire-performer-dussera-2017.jpg",
     "cat": "portraits",
     "alt": "fire performer dussera 2017",
+    "class": ""
+  },
+  {
+    "src": "assets/portraits/gallery-new-11e31a2a.jpg",
+    "cat": "portraits",
+    "alt": "gallery new 11e31a2a",
+    "class": ""
+  },
+  {
+    "src": "assets/portraits/gallery-new-e3499488.jpg",
+    "cat": "portraits",
+    "alt": "gallery new e3499488",
     "class": ""
   }
 ]
