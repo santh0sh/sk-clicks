@@ -1,0 +1,445 @@
+{
+  "curated": [
+    {
+      "src": "assets/nature/work-dragonfly.jpg",
+      "cat": "nature",
+      "alt": "dragonfly",
+      "class": "span2"
+    },
+    {
+      "src": "assets/places/work-road.jpg",
+      "cat": "places",
+      "alt": "street",
+      "class": ""
+    },
+    {
+      "src": "assets/places/work-waterfront.jpg",
+      "cat": "places",
+      "alt": "sunset over water",
+      "class": ""
+    },
+    {
+      "src": "assets/nature/work-lotus.jpg",
+      "cat": "nature",
+      "alt": "water lily",
+      "class": ""
+    },
+    {
+      "src": "assets/light/hero-sky.jpg",
+      "cat": "light",
+      "alt": "clouds",
+      "class": "wide"
+    },
+    {
+      "src": "assets/nature/work-bird.jpg",
+      "cat": "nature",
+      "alt": "bird silhouette",
+      "class": ""
+    },
+    {
+      "src": "assets/events/event-holi.jpg",
+      "cat": "events",
+      "alt": "child playing with colours at a festival",
+      "class": "span2"
+    },
+    {
+      "src": "assets/events/event-kolam.jpg",
+      "cat": "events",
+      "alt": "kolam drawn at a function",
+      "class": ""
+    },
+    {
+      "src": "assets/events/event-drummer.jpg",
+      "cat": "events",
+      "alt": "young drummer at a festival",
+      "class": "span2"
+    },
+    {
+      "src": "assets/weddings/event-wedding-joy.jpg",
+      "cat": "events",
+      "alt": "Candid smile at a wedding celebration",
+      "class": "span2"
+    },
+    {
+      "src": "assets/events/event-kolam-lamp.jpg",
+      "cat": "events",
+      "alt": "Ceremonial lamp on a kolam",
+      "class": ""
+    },
+    {
+      "src": "assets/weddings/event-wedding-applause.jpg",
+      "cat": "events",
+      "alt": "Couple applauding at a wedding",
+      "class": ""
+    },
+    {
+      "src": "assets/weddings/event-wedding-garlands.jpg",
+      "cat": "events",
+      "alt": "Garland exchange at a wedding",
+      "class": "span2"
+    },
+    {
+      "src": "assets/nature/nature-butterfly.jpg",
+      "cat": "nature",
+      "alt": "Butterfly resting on a leaf",
+      "class": ""
+    },
+    {
+      "src": "assets/nature/nature-egret.jpg",
+      "cat": "nature",
+      "alt": "White peacock displaying its feathers",
+      "class": ""
+    },
+    {
+      "src": "assets/nature/nature-calf.jpg",
+      "cat": "nature",
+      "alt": "Cow and calf on a shaded lane",
+      "class": ""
+    },
+    {
+      "src": "assets/nature/nature-kingfisher.jpg",
+      "cat": "nature",
+      "alt": "Kingfisher spreading its wings",
+      "class": ""
+    },
+    {
+      "src": "assets/light/light-sunbeams.jpg",
+      "cat": "light",
+      "alt": "Sunbeams breaking through clouds",
+      "class": ""
+    },
+    {
+      "src": "assets/light/light-street-sunrise.jpg",
+      "cat": "light",
+      "alt": "Golden morning light along a street",
+      "class": ""
+    },
+    {
+      "src": "assets/light/light-grazing-sunset.jpg",
+      "cat": "light",
+      "alt": "Evening light above a herd",
+      "class": ""
+    },
+    {
+      "src": "assets/places/places-elephant.jpg",
+      "cat": "places",
+      "alt": "Elephant walking through a temple street",
+      "class": ""
+    },
+    {
+      "src": "assets/places/places-misty-lane.jpg",
+      "cat": "places",
+      "alt": "Quiet misty tree-lined road",
+      "class": ""
+    },
+    {
+      "src": "assets/places/places-tree-avenue.jpg",
+      "cat": "places",
+      "alt": "Tree-lined avenue",
+      "class": ""
+    },
+    {
+      "src": "assets/portraits/gallery-image-1b40f651.jpg",
+      "cat": "portraits",
+      "alt": "Veena performance at a function",
+      "class": ""
+    },
+    {
+      "src": "assets/events/gallery-image-3b2131d3.jpg",
+      "cat": "events",
+      "alt": "Crowd raising their hands at a festival",
+      "class": ""
+    },
+    {
+      "src": "assets/events/gallery-image-60569651.jpg",
+      "cat": "events",
+      "alt": "Children playing with colour at Holi",
+      "class": ""
+    },
+    {
+      "src": "assets/events/gallery-image-6a000253.jpg",
+      "cat": "events",
+      "alt": "Henna and bangles at a wedding",
+      "class": ""
+    },
+    {
+      "src": "assets/events/gallery-image-b88c86ea.jpg",
+      "cat": "events",
+      "alt": "Wedding party celebrating together",
+      "class": ""
+    },
+    {
+      "src": "assets/events/gallery-image-e0956b76.jpg",
+      "cat": "events",
+      "alt": "Graduation day with family",
+      "class": ""
+    },
+    {
+      "src": "assets/events/gallery-image-f63fb04c.jpg",
+      "cat": "events",
+      "alt": "Bright bowls of festival colour",
+      "class": ""
+    },
+    {
+      "src": "assets/portraits/gallery-image-043a5463.jpg",
+      "cat": "portraits",
+      "alt": "Man reading quietly outside his home",
+      "class": ""
+    },
+    {
+      "src": "assets/portraits/gallery-image-19a3e678.jpg",
+      "cat": "portraits",
+      "alt": "Child dressed for a family celebration",
+      "class": ""
+    },
+    {
+      "src": "assets/portraits/gallery-image-1a67a3a6.jpg",
+      "cat": "portraits",
+      "alt": "Child in sunglasses",
+      "class": ""
+    },
+    {
+      "src": "assets/portraits/gallery-image-9364ae27.jpg",
+      "cat": "portraits",
+      "alt": "Portrait in a garden",
+      "class": ""
+    },
+    {
+      "src": "assets/portraits/gallery-image-a5a54834.jpg",
+      "cat": "portraits",
+      "alt": "Farmer standing by a green field",
+      "class": ""
+    },
+    {
+      "src": "assets/portraits/gallery-image-d99ac445.jpg",
+      "cat": "portraits",
+      "alt": "Grandfather and child sharing a smile",
+      "class": ""
+    },
+    {
+      "src": "assets/places/gallery-image-025bc23c.jpg",
+      "cat": "places",
+      "alt": "Fisherman watching the sea",
+      "class": ""
+    },
+    {
+      "src": "assets/places/gallery-image-025c1132.jpg",
+      "cat": "places",
+      "alt": "Stone path through a garden",
+      "class": ""
+    },
+    {
+      "src": "assets/places/gallery-image-1353a883.jpg",
+      "cat": "places",
+      "alt": "Old door and weathered lock",
+      "class": ""
+    },
+    {
+      "src": "assets/places/gallery-image-264d4c9e.jpg",
+      "cat": "places",
+      "alt": "Chairs beside an old wall",
+      "class": ""
+    },
+    {
+      "src": "assets/places/gallery-image-5248b373.jpg",
+      "cat": "places",
+      "alt": "Cyclist on a quiet road",
+      "class": ""
+    },
+    {
+      "src": "assets/places/gallery-image-7b780a7e.jpg",
+      "cat": "places",
+      "alt": "Temple on the edge of a green field",
+      "class": ""
+    },
+    {
+      "src": "assets/places/gallery-image-94c01379.jpg",
+      "cat": "places",
+      "alt": "Worker carrying water along a street",
+      "class": ""
+    },
+    {
+      "src": "assets/places/gallery-image-a23f4039.jpg",
+      "cat": "places",
+      "alt": "Workers tending a green verge",
+      "class": ""
+    },
+    {
+      "src": "assets/places/gallery-image-b2c35e8f.jpg",
+      "cat": "places",
+      "alt": "Lettering carved into a wall",
+      "class": ""
+    },
+    {
+      "src": "assets/nature/gallery-image-1f8f6609.jpg",
+      "cat": "nature",
+      "alt": "Pink flowers against a soft garden background",
+      "class": ""
+    },
+    {
+      "src": "assets/nature/gallery-image-21b7aac5.jpg",
+      "cat": "nature",
+      "alt": "Frangipani in bloom",
+      "class": ""
+    },
+    {
+      "src": "assets/nature/gallery-image-54c899ad.jpg",
+      "cat": "nature",
+      "alt": "Small pink bird perched beside water",
+      "class": ""
+    },
+    {
+      "src": "assets/nature/gallery-image-6d6f9bee.jpg",
+      "cat": "nature",
+      "alt": "Raindrops collected on a leaf",
+      "class": ""
+    },
+    {
+      "src": "assets/nature/gallery-image-6f3273a3.jpg",
+      "cat": "nature",
+      "alt": "Ripples spreading across still water",
+      "class": ""
+    },
+    {
+      "src": "assets/nature/gallery-image-b8db1f4b.jpg",
+      "cat": "nature",
+      "alt": "Wind moving through a green field",
+      "class": ""
+    },
+    {
+      "src": "assets/light/gallery-image-1e21c1f3.jpg",
+      "cat": "light",
+      "alt": "Patterns of light and shadow on a vaulted ceiling",
+      "class": ""
+    },
+    {
+      "src": "assets/light/gallery-image-4f9ea397.jpg",
+      "cat": "light",
+      "alt": "Palm fronds silhouetted against green",
+      "class": ""
+    },
+    {
+      "src": "assets/light/gallery-image-6dbe00fa.jpg",
+      "cat": "light",
+      "alt": "Golden sunset beneath cloud-streaked sky",
+      "class": "wide"
+    },
+    {
+      "src": "assets/light/gallery-image-9e1c45f7.jpg",
+      "cat": "light",
+      "alt": "Fireworks lighting up the night",
+      "class": ""
+    },
+    {
+      "src": "assets/light/gallery-image-bf4a9147.jpg",
+      "cat": "light",
+      "alt": "Leaves silhouetted against a pale sky",
+      "class": ""
+    },
+    {
+      "src": "assets/light/light-prayer.jpg",
+      "cat": "light",
+      "alt": "Sunlight falling across hands in prayer",
+      "class": ""
+    },
+    {
+      "src": "assets/light/light-fireworks.jpg",
+      "cat": "light",
+      "alt": "Festival lights against the dark",
+      "class": ""
+    },
+    {
+      "src": "assets/portraits/gallery-new-b2ea670f.jpg",
+      "cat": "portraits",
+      "alt": "Maternity portrait with a book",
+      "class": ""
+    },
+    {
+      "src": "assets/portraits/gallery-new-8dc9f2cd.jpg",
+      "cat": "portraits",
+      "alt": "Two men in kurtas and sunglasses",
+      "class": ""
+    },
+    {
+      "src": "assets/events/gallery-new-c97be5f5.jpg",
+      "cat": "events",
+      "alt": "Pongal ceremony beside a decorated pot",
+      "class": ""
+    },
+    {
+      "src": "assets/portraits/gallery-new-8decf966.jpg",
+      "cat": "portraits",
+      "alt": "Graduate taking a selfie with parents",
+      "class": ""
+    },
+    {
+      "src": "assets/portraits/gallery-new-8aed6116.jpg",
+      "cat": "portraits",
+      "alt": "Toddler smiling in a courtyard",
+      "class": ""
+    },
+    {
+      "src": "assets/events/gallery-new-ce7bcbe5.jpg",
+      "cat": "events",
+      "alt": "Boy smiling beside a sparkler",
+      "class": ""
+    },
+    {
+      "src": "assets/weddings/wedding-23d74935.jpg",
+      "cat": "events",
+      "alt": "Henna-decorated hands at a wedding",
+      "class": ""
+    },
+    {
+      "src": "assets/portraits/wedding-42813514.jpg",
+      "cat": "portraits",
+      "alt": "Bride getting ready at a mirror",
+      "class": ""
+    },
+    {
+      "src": "assets/weddings/wedding-a231485d.jpg",
+      "cat": "events",
+      "alt": "Girl dancing in a marriage hall",
+      "class": ""
+    },
+    {
+      "src": "assets/weddings/wedding-2c2fe019.jpg",
+      "cat": "events",
+      "alt": "Two women embracing at a wedding",
+      "class": ""
+    },
+    {
+      "src": "assets/portraits/wedding-c10ec968.jpg",
+      "cat": "portraits",
+      "alt": "Groom wearing a flower garland",
+      "class": ""
+    }
+  ],
+  "excluded": [
+    "assets/events/event-ceremony-bangles.jpg",
+    "assets/events/event-ceremony-offerings.jpg",
+    "assets/events/event-fire.jpg",
+    "assets/events/event-jasmine.jpg",
+    "assets/events/gallery-image-16f70dcf.jpg",
+    "assets/events/gallery-image-1c9d9edc.jpg",
+    "assets/events/gallery-image-37969596.jpg",
+    "assets/events/gallery-image-7f828687.jpg",
+    "assets/events/gallery-image-9c7f5f6c.jpg",
+    "assets/events/gallery-image-b925dd4c.jpg",
+    "assets/events/gallery-new-31dc4743.jpg",
+    "assets/events/gallery-new-e3cecd1b.jpg",
+    "assets/events/light-flame.jpg",
+    "assets/light/work-sunrays.jpg",
+    "assets/nature/work-peacock.jpg",
+    "assets/weddings/event-wedding-guests.jpg",
+    "assets/weddings/gallery-image-71a68715.jpg",
+    "assets/weddings/wedding-5ef3515f.jpg",
+    "assets/weddings/wedding-8d760810.jpg",
+    "assets/weddings/wedding-9deb29cb.jpg",
+    "assets/weddings/wedding-a9975732.jpg",
+    "assets/weddings/wedding-d029f3bf.jpg",
+    "assets/weddings/wedding-d4a27eea.jpg",
+    "assets/weddings/wedding-dc2d06dd.jpg",
+    "assets/weddings/wedding-fe7664d0.jpg"
+  ]
+}

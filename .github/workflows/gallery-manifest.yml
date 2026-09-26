@@ -1,0 +1,32 @@
+name: Refresh gallery list
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'assets/**'
+      - 'gallery-baseline.json'
+      - 'scripts/build-gallery.py'
+      - '.github/workflows/gallery-manifest.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: gallery-manifest
+  cancel-in-progress: false
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - name: Generate manifest from asset folders
+        run: python3 scripts/build-gallery.py
+      - name: Commit changed manifest for GitHub Pages
+        run: |
+          if git diff --quiet -- gallery-manifest.json; then exit 0; fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add gallery-manifest.json
+          git commit -m 'Refresh gallery photo list'
+          git push
