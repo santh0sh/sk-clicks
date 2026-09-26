@@ -5,7 +5,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 BASELINE = json.loads((ROOT / 'gallery-baseline.json').read_text())
-VALID = {'nature', 'light', 'places', 'events', 'portraits', 'silhouette', 'paws-wings'}
+VALID = {'nature', 'light', 'places', 'events', 'portraits', 'paws-wings'}
 EXCLUDED = set(BASELINE['excluded'])
 CURATED = BASELINE['curated']
 
